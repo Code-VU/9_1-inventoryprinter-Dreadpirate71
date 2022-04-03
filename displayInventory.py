@@ -1,6 +1,8 @@
 stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'ring': 1, 'apple': 12}
-
+inventory = dict()
 def displayInventory(inventory):
-    # your code goes here
+    print (inventory)
+        
 
-##displayInventory(stuff)
+
+displayInventory(stuff)
